@@ -1,4 +1,4 @@
--- Provide a query that shows the most purchased track of 2013.
+-- Provide a query that shows the most purchased track of 2013
 
 SELECT
 	count(a.InvoiceLineId) as 'CountOfSales',
